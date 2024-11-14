@@ -24,4 +24,5 @@ class CustomerController extends Controller
             'customers' => $customers
         ],200);
     }
+
 }
